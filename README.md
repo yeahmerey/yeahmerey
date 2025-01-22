@@ -7,10 +7,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeahmerey&label=Profile%20views&color=0e75b6&style=flat" alt="yeahmerey" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeahmerey" alt="yeahmerey" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=yeahmerey" alt="yeahmerey" /></p>
 
 ## 🧑‍💻 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeahmerey&langs_count=16&layout=compact&theme=dracula&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeahmerey&langs_count=16&layout=compact&theme=dracula&hide=jupyter%20notebook)]
 
 ### Social Media:
 
